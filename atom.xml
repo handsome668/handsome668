@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-02T06:48:08.000Z</updated>
+  <updated>2019-11-11T02:52:41.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>人生海海读后感</title>
+    <link href="http://yoursite.com/2019/11/11/haihai/"/>
+    <id>http://yoursite.com/2019/11/11/haihai/</id>
+    <published>2019-11-11T02:47:24.000Z</published>
+    <updated>2019-11-11T02:52:41.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.心有雷霆面若惊湖，这是生命的厚度，是沧桑堆积起来的；<br>2.小慈悲是同情心，是眼里冒出来的，触景生情，有一搭没一搭的，不成流。大慈悲是心底长出来的，因缘而生，细水长流。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1.心有雷霆面若惊湖，这是生命的厚度，是沧桑堆积起来的；&lt;br&gt;2.小慈悲是同情心，是眼里冒出来的，触景生情，有一搭没一搭的，不成流。大慈悲是心底长出来的，因缘而生，细水长流。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="金句" scheme="http://yoursite.com/tags/%E9%87%91%E5%8F%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>带着问题学机器学习</title>
@@ -39,54 +63,6 @@
     
     
       <category term="机器学习" scheme="http://yoursite.com/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>second</title>
-    <link href="http://yoursite.com/2019/05/15/second/"/>
-    <id>http://yoursite.com/2019/05/15/second/</id>
-    <published>2019-05-15T07:53:23.000Z</published>
-    <updated>2019-05-15T07:54:04.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>试试第二篇文章</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;试试第二篇文章&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="第二篇文章" scheme="http://yoursite.com/tags/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>第一篇文章</title>
-    <link href="http://yoursite.com/2019/05/15/nihao/"/>
-    <id>http://yoursite.com/2019/05/15/nihao/</id>
-    <published>2019-05-15T07:33:34.000Z</published>
-    <updated>2019-05-15T07:39:32.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>这个博客的初衷在于写点随笔，具体的也不知道想写点啥，就是随便写写吧！</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;这个博客的初衷在于写点随笔，具体的也不知道想写点啥，就是随便写写吧！&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
